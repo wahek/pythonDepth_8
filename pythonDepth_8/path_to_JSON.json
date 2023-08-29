@@ -1,0 +1,5756 @@
+[
+    {
+        "name": "ex1.py",
+        "parent": ".",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "main.py",
+        "parent": ".",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "path_to_CSV.csv",
+        "parent": ".",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "path_to_JSON.json",
+        "parent": ".",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "rext_json.txt",
+        "parent": ".",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "task3_3.py",
+        "parent": ".",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "task4.py",
+        "parent": ".",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "task_2.py",
+        "parent": ".",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "text.txt",
+        "parent": ".",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "users.csv",
+        "parent": ".",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "users.json",
+        "parent": ".",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "usersnew.json",
+        "parent": ".",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "usersnew.pickle",
+        "parent": ".",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": ".",
+        "parent": "relative path",
+        "type": "dir",
+        "size": 125013
+    },
+    {
+        "name": ".gitignore",
+        "parent": ".idea",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "discord.xml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "encodings.xml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "misc.xml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "modules.xml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "Python.iml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "vcs.xml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "workspace.xml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": ".idea",
+        "parent": ".",
+        "type": "dir",
+        "size": 5842
+    },
+    {
+        "name": "profiles_settings.xml",
+        "parent": "inspectionProfiles",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "inspectionProfiles",
+        "parent": ".idea",
+        "type": "dir",
+        "size": 174
+    },
+    {
+        "name": ".gitignore",
+        "parent": "venv",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "pyvenv.cfg",
+        "parent": "venv",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "venv",
+        "parent": ".",
+        "type": "dir",
+        "size": 452
+    },
+    {
+        "name": "Lib",
+        "parent": "venv",
+        "type": "dir",
+        "size": 0
+    },
+    {
+        "name": "distutils-precedence.pth",
+        "parent": "site-packages",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": "pip-22.3.1.virtualenv",
+        "parent": "site-packages",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "setuptools-65.5.1.virtualenv",
+        "parent": "site-packages",
+        "type": "file",
+        "size": 77
+    },
+    {
+        "name": "wheel-0.38.4.virtualenv",
+        "parent": "site-packages",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "_virtualenv.pth",
+        "parent": "site-packages",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "_virtualenv.py",
+        "parent": "site-packages",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "site-packages",
+        "parent": "Lib",
+        "type": "dir",
+        "size": 5939
+    },
+    {
+        "name": "py.typed",
+        "parent": "pip",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pip",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__main__.py",
+        "parent": "pip",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__pip-runner__.py",
+        "parent": "pip",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "pip",
+        "parent": "site-packages",
+        "type": "dir",
+        "size": 3285
+    },
+    {
+        "name": "build_env.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "cache.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "configuration.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "main.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "pyproject.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "self_outdated_check.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 71
+    },
+    {
+        "name": "wheel_builder.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_internal",
+        "parent": "pip",
+        "type": "dir",
+        "size": 84525
+    },
+    {
+        "name": "autocompletion.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "base_command.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "cmdoptions.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "command_context.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "main.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "main_parser.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "parser.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "progress_bars.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "req_command.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "spinners.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "status_codes.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "__init__.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "cli",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 87806
+    },
+    {
+        "name": "cache.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "check.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "completion.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "configuration.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "debug.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "download.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "freeze.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "hash.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "help.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "index.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "inspect.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "install.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "list.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "search.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "show.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "uninstall.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "wheel.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "commands",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 119848
+    },
+    {
+        "name": "base.py",
+        "parent": "distributions",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "installed.py",
+        "parent": "distributions",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "sdist.py",
+        "parent": "distributions",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "wheel.py",
+        "parent": "distributions",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "distributions",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "distributions",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 10466
+    },
+    {
+        "name": "collector.py",
+        "parent": "index",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "package_finder.py",
+        "parent": "index",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "sources.py",
+        "parent": "index",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "index",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "index",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 60686
+    },
+    {
+        "name": "base.py",
+        "parent": "locations",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "_distutils.py",
+        "parent": "locations",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_sysconfig.py",
+        "parent": "locations",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "__init__.py",
+        "parent": "locations",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "locations",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 34294
+    },
+    {
+        "name": "base.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "pkg_resources.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "_json.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "metadata",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 41925
+    },
+    {
+        "name": "_compat.py",
+        "parent": "importlib",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_dists.py",
+        "parent": "importlib",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "_envs.py",
+        "parent": "importlib",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "importlib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "importlib",
+        "parent": "metadata",
+        "type": "dir",
+        "size": 17627
+    },
+    {
+        "name": "candidate.py",
+        "parent": "models",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "direct_url.py",
+        "parent": "models",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "format_control.py",
+        "parent": "models",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "index.py",
+        "parent": "models",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "installation_report.py",
+        "parent": "models",
+        "type": "file",
+        "size": 71
+    },
+    {
+        "name": "link.py",
+        "parent": "models",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "scheme.py",
+        "parent": "models",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "search_scope.py",
+        "parent": "models",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "selection_prefs.py",
+        "parent": "models",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "target_python.py",
+        "parent": "models",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "wheel.py",
+        "parent": "models",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "models",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "models",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 45927
+    },
+    {
+        "name": "auth.py",
+        "parent": "network",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "cache.py",
+        "parent": "network",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "download.py",
+        "parent": "network",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "lazy_wheel.py",
+        "parent": "network",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "session.py",
+        "parent": "network",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "utils.py",
+        "parent": "network",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "xmlrpc.py",
+        "parent": "network",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "__init__.py",
+        "parent": "network",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "network",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 52426
+    },
+    {
+        "name": "check.py",
+        "parent": "operations",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "freeze.py",
+        "parent": "operations",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "prepare.py",
+        "parent": "operations",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "operations",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "operations",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 39984
+    },
+    {
+        "name": "build_tracker.py",
+        "parent": "build",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "metadata.py",
+        "parent": "build",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "metadata_editable.py",
+        "parent": "build",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "metadata_legacy.py",
+        "parent": "build",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "wheel.py",
+        "parent": "build",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "wheel_editable.py",
+        "parent": "build",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "wheel_legacy.py",
+        "parent": "build",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "__init__.py",
+        "parent": "build",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "build",
+        "parent": "operations",
+        "type": "dir",
+        "size": 14723
+    },
+    {
+        "name": "editable_legacy.py",
+        "parent": "install",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "legacy.py",
+        "parent": "install",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "wheel.py",
+        "parent": "install",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "install",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "install",
+        "parent": "operations",
+        "type": "dir",
+        "size": 32917
+    },
+    {
+        "name": "constructors.py",
+        "parent": "req",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "req_file.py",
+        "parent": "req",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "req_install.py",
+        "parent": "req",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "req_set.py",
+        "parent": "req",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "req_uninstall.py",
+        "parent": "req",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "__init__.py",
+        "parent": "req",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "req",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 99567
+    },
+    {
+        "name": "base.py",
+        "parent": "resolution",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "resolution",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "resolution",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 583
+    },
+    {
+        "name": "resolver.py",
+        "parent": "legacy",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__init__.py",
+        "parent": "legacy",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "legacy",
+        "parent": "resolution",
+        "type": "dir",
+        "size": 24129
+    },
+    {
+        "name": "base.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "candidates.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "factory.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "found_candidates.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 68
+    },
+    {
+        "name": "provider.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "reporter.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "requirements.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "resolver.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__init__.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "resolvelib",
+        "parent": "resolution",
+        "type": "dir",
+        "size": 87194
+    },
+    {
+        "name": "appdirs.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "compat.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "compatibility_tags.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "datetime.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "deprecation.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "direct_url_helpers.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "distutils_args.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "egg_link.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "encoding.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "entrypoints.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "filesystem.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "filetypes.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "glibc.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "hashes.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "inject_securetransport.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 74
+    },
+    {
+        "name": "logging.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "misc.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "models.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "packaging.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "setuptools_build.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 68
+    },
+    {
+        "name": "subprocess.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "temp_dir.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "unpacking.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "urls.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "virtualenv.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "wheel.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "_log.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "utils",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 118977
+    },
+    {
+        "name": "bazaar.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "git.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "mercurial.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "subversion.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "versioncontrol.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "__init__.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "vcs",
+        "parent": "_internal",
+        "type": "dir",
+        "size": 62007
+    },
+    {
+        "name": "six.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "typing_extensions.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "vendor.txt",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_vendor",
+        "parent": "pip",
+        "type": "dir",
+        "size": 120098
+    },
+    {
+        "name": "adapter.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "cache.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "compat.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "controller.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "filewrapper.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "heuristics.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "serialize.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "wrapper.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_cmd.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "cachecontrol",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 41585
+    },
+    {
+        "name": "file_cache.py",
+        "parent": "caches",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "redis_cache.py",
+        "parent": "caches",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "__init__.py",
+        "parent": "caches",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "caches",
+        "parent": "cachecontrol",
+        "type": "dir",
+        "size": 6546
+    },
+    {
+        "name": "cacert.pem",
+        "parent": "certifi",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "core.py",
+        "parent": "certifi",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "certifi",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__main__.py",
+        "parent": "certifi",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "certifi",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 290998
+    },
+    {
+        "name": "big5freq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "big5prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "chardistribution.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 68
+    },
+    {
+        "name": "charsetgroupprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "charsetprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "codingstatemachine.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "cp949prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "enums.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "escprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "escsm.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "eucjpprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "euckrfreq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "euckrprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "euctwfreq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "euctwprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "gb2312freq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "gb2312prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "hebrewprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "jisfreq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "johabfreq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "johabprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "jpcntx.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "langbulgarianmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "langgreekmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "langhebrewmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "langhungarianmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "langrussianmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 68
+    },
+    {
+        "name": "langthaimodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "langturkishmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 68
+    },
+    {
+        "name": "latin1prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "mbcharsetprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "mbcsgroupprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "mbcssm.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "sbcharsetprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "sbcsgroupprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "sjisprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "universaldetector.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "utf1632prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "utf8prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "version.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "chardet",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 1076818
+    },
+    {
+        "name": "chardetect.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "__init__.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "cli",
+        "parent": "chardet",
+        "type": "dir",
+        "size": 2406
+    },
+    {
+        "name": "languages.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "__init__.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "metadata",
+        "parent": "chardet",
+        "type": "dir",
+        "size": 13280
+    },
+    {
+        "name": "ansi.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "ansitowin32.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "initialise.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "win32.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "winterm.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "colorama",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 27348
+    },
+    {
+        "name": "compat.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "database.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "index.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "locators.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "manifest.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "markers.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "metadata.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "resources.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "scripts.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "t32.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "t64-arm.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "t64.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "util.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "version.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "w32.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "w64-arm.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "w64.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "wheel.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "distlib",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 1139219
+    },
+    {
+        "name": "distro.py",
+        "parent": "distro",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "__init__.py",
+        "parent": "distro",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__main__.py",
+        "parent": "distro",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "distro",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 49886
+    },
+    {
+        "name": "codec.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "compat.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "core.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "idnadata.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "intranges.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "package_data.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "uts46data.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "__init__.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "idna",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 270310
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "msgpack",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "ext.py",
+        "parent": "msgpack",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "fallback.py",
+        "parent": "msgpack",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__init__.py",
+        "parent": "msgpack",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "msgpack",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 42850
+    },
+    {
+        "name": "markers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "requirements.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "specifiers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "tags.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "utils.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "version.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_structures.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "__about__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "__init__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "packaging",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 96292
+    },
+    {
+        "name": "build.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "check.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "colorlog.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "dirtools.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "envbuild.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "meta.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "wrappers.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_compat.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "pep517",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 35717
+    },
+    {
+        "name": "_in_process.py",
+        "parent": "in_process",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "__init__.py",
+        "parent": "in_process",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "in_process",
+        "parent": "pep517",
+        "type": "dir",
+        "size": 11673
+    },
+    {
+        "name": "py31compat.py",
+        "parent": "pkg_resources",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pkg_resources",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "pkg_resources",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 108849
+    },
+    {
+        "name": "android.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "api.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "macos.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "unix.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "version.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "windows.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__main__.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "platformdirs",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 39067
+    },
+    {
+        "name": "cmdline.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "console.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "filter.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "formatter.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "lexer.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "modeline.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "plugin.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "regexopt.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "scanner.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "sphinxext.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "style.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "token.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "unistring.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "util.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__main__.py",
+        "parent": "pygments",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "pygments",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 164703
+    },
+    {
+        "name": "__init__.py",
+        "parent": "filters",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "filters",
+        "parent": "pygments",
+        "type": "dir",
+        "size": 40386
+    },
+    {
+        "name": "bbcode.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "groff.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "html.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "img.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "irc.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "latex.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "other.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "pangomarkup.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "rtf.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "svg.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "terminal.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "terminal256.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "_mapping.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__init__.py",
+        "parent": "formatters",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "formatters",
+        "parent": "pygments",
+        "type": "dir",
+        "size": 135976
+    },
+    {
+        "name": "python.py",
+        "parent": "lexers",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "_mapping.py",
+        "parent": "lexers",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__init__.py",
+        "parent": "lexers",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "lexers",
+        "parent": "pygments",
+        "type": "dir",
+        "size": 134782
+    },
+    {
+        "name": "__init__.py",
+        "parent": "styles",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "styles",
+        "parent": "pygments",
+        "type": "dir",
+        "size": 3419
+    },
+    {
+        "name": "actions.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "common.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "core.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "helpers.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "results.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "testing.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "unicode.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "util.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "pyparsing",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 346364
+    },
+    {
+        "name": "__init__.py",
+        "parent": "diagram",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "diagram",
+        "parent": "pyparsing",
+        "type": "dir",
+        "size": 23685
+    },
+    {
+        "name": "adapters.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "api.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "auth.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "certs.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "compat.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "cookies.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "help.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "hooks.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "models.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "packages.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "sessions.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "status_codes.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "structures.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "utils.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "_internal_utils.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "__init__.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__version__.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "requests",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 180427
+    },
+    {
+        "name": "providers.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "reporters.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "resolvers.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "structs.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "resolvelib",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 30378
+    },
+    {
+        "name": "collections_abc.py",
+        "parent": "compat",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "__init__.py",
+        "parent": "compat",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "compat",
+        "parent": "resolvelib",
+        "type": "dir",
+        "size": 156
+    },
+    {
+        "name": "abc.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "align.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "ansi.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "bar.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "box.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "cells.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "color.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "color_triplet.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "columns.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "console.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "constrain.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "containers.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "control.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "default_styles.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "diagnose.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "emoji.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "errors.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "filesize.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "file_proxy.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "highlighter.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "json.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "jupyter.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "layout.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "live.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "live_render.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "logging.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "markup.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "measure.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "padding.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "pager.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "palette.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "panel.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "pretty.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "progress.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "progress_bar.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "prompt.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "protocol.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "region.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "repr.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "rule.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "scope.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "screen.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "segment.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "spinner.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "status.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "style.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "styled.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "syntax.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "table.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "terminal_theme.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "text.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "theme.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "themes.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "traceback.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "tree.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "_cell_widths.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "_emoji_codes.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "_emoji_replace.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "_export_format.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "_extension.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_inspect.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_log_render.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "_loop.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "_palettes.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "_pick.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "_ratio.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "_spinners.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "_stack.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "_timer.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "_win32_console.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "_windows.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_windows_renderer.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "_wrap.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__main__.py",
+        "parent": "rich",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "rich",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 878477
+    },
+    {
+        "name": "after.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "before.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "before_sleep.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "nap.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "retry.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "stop.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "tornadoweb.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "wait.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "_asyncio.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_utils.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "__init__.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "tenacity",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 50281
+    },
+    {
+        "name": "_parser.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_re.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "_types.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "__init__.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "tomli",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 26226
+    },
+    {
+        "name": "connection.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "connectionpool.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "fields.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "filepost.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "poolmanager.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "request.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "response.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_collections.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "_version.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__init__.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "urllib3",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 148487
+    },
+    {
+        "name": "appengine.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "ntlmpool.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "pyopenssl.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "securetransport.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "socks.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "_appengine_environ.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "__init__.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "contrib",
+        "parent": "urllib3",
+        "type": "dir",
+        "size": 75256
+    },
+    {
+        "name": "bindings.py",
+        "parent": "_securetransport",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "low_level.py",
+        "parent": "_securetransport",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_securetransport",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_securetransport",
+        "parent": "contrib",
+        "type": "dir",
+        "size": 31554
+    },
+    {
+        "name": "six.py",
+        "parent": "packages",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "__init__.py",
+        "parent": "packages",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "packages",
+        "parent": "urllib3",
+        "type": "dir",
+        "size": 34665
+    },
+    {
+        "name": "makefile.py",
+        "parent": "backports",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__init__.py",
+        "parent": "backports",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "backports",
+        "parent": "packages",
+        "type": "dir",
+        "size": 1417
+    },
+    {
+        "name": "connection.py",
+        "parent": "util",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "proxy.py",
+        "parent": "util",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "queue.py",
+        "parent": "util",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "request.py",
+        "parent": "util",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "response.py",
+        "parent": "util",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "retry.py",
+        "parent": "util",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "ssltransport.py",
+        "parent": "util",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "ssl_.py",
+        "parent": "util",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "ssl_match_hostname.py",
+        "parent": "util",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "timeout.py",
+        "parent": "util",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "url.py",
+        "parent": "util",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "wait.py",
+        "parent": "util",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "util",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "util",
+        "parent": "urllib3",
+        "type": "dir",
+        "size": 97190
+    },
+    {
+        "name": "labels.py",
+        "parent": "webencodings",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "mklabels.py",
+        "parent": "webencodings",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "tests.py",
+        "parent": "webencodings",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "x_user_defined.py",
+        "parent": "webencodings",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "__init__.py",
+        "parent": "webencodings",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "webencodings",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 31733
+    },
+    {
+        "name": "entry_points.txt",
+        "parent": "pip-22.3.1.dist-info",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "INSTALLER",
+        "parent": "pip-22.3.1.dist-info",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "LICENSE.txt",
+        "parent": "pip-22.3.1.dist-info",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "METADATA",
+        "parent": "pip-22.3.1.dist-info",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "RECORD",
+        "parent": "pip-22.3.1.dist-info",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "top_level.txt",
+        "parent": "pip-22.3.1.dist-info",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "WHEEL",
+        "parent": "pip-22.3.1.dist-info",
+        "type": "file",
+        "size": 54
+    },
+    {
+        "name": "pip-22.3.1.dist-info",
+        "parent": "site-packages",
+        "type": "dir",
+        "size": 76670
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pkg_resources",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "pkg_resources",
+        "parent": "site-packages",
+        "type": "dir",
+        "size": 108568
+    },
+    {
+        "name": "__init__.py",
+        "parent": "extern",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "extern",
+        "parent": "pkg_resources",
+        "type": "dir",
+        "size": 2426
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": "__pycache__",
+        "parent": "extern",
+        "type": "dir",
+        "size": 4314
+    },
+    {
+        "name": "appdirs.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "zipp.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_vendor",
+        "parent": "pkg_resources",
+        "type": "dir",
+        "size": 33126
+    },
+    {
+        "name": "abc.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "readers.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "simple.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "_adapters.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "_common.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_compat.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_itertools.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_legacy.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "importlib_resources",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 25123
+    },
+    {
+        "name": "context.py",
+        "parent": "jaraco",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "functools.py",
+        "parent": "jaraco",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "__init__.py",
+        "parent": "jaraco",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "jaraco",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 18935
+    },
+    {
+        "name": "__init__.py",
+        "parent": "text",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "text",
+        "parent": "jaraco",
+        "type": "dir",
+        "size": 15526
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": "__pycache__",
+        "parent": "text",
+        "type": "dir",
+        "size": 26605
+    },
+    {
+        "name": "context.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "functools.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 74
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": "__pycache__",
+        "parent": "jaraco",
+        "type": "dir",
+        "size": 29915
+    },
+    {
+        "name": "more.py",
+        "parent": "more_itertools",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "recipes.py",
+        "parent": "more_itertools",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "more_itertools",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "more_itertools",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 151062
+    },
+    {
+        "name": "more.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "recipes.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": "__pycache__",
+        "parent": "more_itertools",
+        "type": "dir",
+        "size": 195201
+    },
+    {
+        "name": "markers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "requirements.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "specifiers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "tags.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "utils.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "version.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_structures.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "__about__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "__init__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "packaging",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 96331
+    },
+    {
+        "name": "markers.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "requirements.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 77
+    },
+    {
+        "name": "specifiers.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 75
+    },
+    {
+        "name": "tags.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "utils.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "version.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "_manylinux.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 75
+    },
+    {
+        "name": "_musllinux.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 75
+    },
+    {
+        "name": "_structures.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 76
+    },
+    {
+        "name": "__about__.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 74
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": "__pycache__",
+        "parent": "packaging",
+        "type": "dir",
+        "size": 134612
+    },
+    {
+        "name": "actions.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "common.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "core.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "helpers.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "results.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "testing.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "unicode.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "util.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "pyparsing",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 346318
+    },
+    {
+        "name": "__init__.py",
+        "parent": "diagram",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "diagram",
+        "parent": "pyparsing",
+        "type": "dir",
+        "size": 23668
+    },
+    {
+        "name": "actions.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "common.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 71
+    },
+    {
+        "name": "core.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "exceptions.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 75
+    },
+    {
+        "name": "helpers.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "results.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "testing.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "unicode.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "util.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": "__pycache__",
+        "parent": "pyparsing",
+        "type": "dir",
+        "size": 461254
+    },
+    {
+        "name": "appdirs.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 29638
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": "__pycache__",
+        "parent": "pkg_resources",
+        "type": "dir",
+        "size": 159567
+    },
+    {
+        "name": "archive_util.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "build_meta.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "cli-32.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "cli-64.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "cli-arm64.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "cli.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "depends.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "dep_util.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "discovery.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "dist.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "errors.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "extension.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "glob.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "gui-32.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "gui-64.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "gui-arm64.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "gui.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "installer.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "launch.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "logging.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "monkey.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "msvc.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "namespaces.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "package_index.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "py34compat.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "sandbox.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "script (dev).tmpl",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "script.tmpl",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "unicode_utils.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "version.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "wheel.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "windows_support.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "_deprecation_warning.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "_entry_points.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "_imp.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "_importlib.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_itertools.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_path.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "_reqs.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "setuptools",
+        "parent": "site-packages",
+        "type": "dir",
+        "size": 942966
+    },
+    {
+        "name": "alias.py",
+        "parent": "command",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "bdist_egg.py",
+        "parent": "command",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "bdist_rpm.py",
+        "parent": "command",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "build.py",
+        "parent": "command",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "build_clib.py",
+        "parent": "command",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "build_ext.py",
+        "parent": "command",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "build_py.py",
+        "parent": "command",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "develop.py",
+        "parent": "command",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "dist_info.py",
+        "parent": "command",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "easy_install.py",
+        "parent": "command",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "editable_wheel.py",
+        "parent": "command",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "egg_info.py",
+        "parent": "command",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "install.py",
+        "parent": "command",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "install_egg_info.py",
+        "parent": "command",
+        "type": "file",
+        "size": 68
+    },
+    {
+        "name": "install_lib.py",
+        "parent": "command",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "install_scripts.py",
+        "parent": "command",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "launcher manifest.xml",
+        "parent": "command",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "py36compat.py",
+        "parent": "command",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "register.py",
+        "parent": "command",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "rotate.py",
+        "parent": "command",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "saveopts.py",
+        "parent": "command",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "sdist.py",
+        "parent": "command",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "setopt.py",
+        "parent": "command",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "test.py",
+        "parent": "command",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "upload.py",
+        "parent": "command",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "upload_docs.py",
+        "parent": "command",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "__init__.py",
+        "parent": "command",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "command",
+        "parent": "setuptools",
+        "type": "dir",
+        "size": 267898
+    },
+    {
+        "name": "expand.py",
+        "parent": "config",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "pyprojecttoml.py",
+        "parent": "config",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "setupcfg.py",
+        "parent": "config",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_apply_pyprojecttoml.py",
+        "parent": "config",
+        "type": "file",
+        "size": 72
+    },
+    {
+        "name": "__init__.py",
+        "parent": "config",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "config",
+        "parent": "setuptools",
+        "type": "dir",
+        "size": 75340
+    },
+    {
+        "name": "error_reporting.py",
+        "parent": "_validate_pyproject",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "extra_validations.py",
+        "parent": "_validate_pyproject",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "fastjsonschema_exceptions.py",
+        "parent": "_validate_pyproject",
+        "type": "file",
+        "size": 77
+    },
+    {
+        "name": "fastjsonschema_validations.py",
+        "parent": "_validate_pyproject",
+        "type": "file",
+        "size": 78
+    },
+    {
+        "name": "formats.py",
+        "parent": "_validate_pyproject",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_validate_pyproject",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_validate_pyproject",
+        "parent": "config",
+        "type": "dir",
+        "size": 293705
+    },
+    {
+        "name": "__init__.py",
+        "parent": "extern",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "extern",
+        "parent": "setuptools",
+        "type": "dir",
+        "size": 2512
+    },
+    {
+        "name": "archive_util.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "bcppcompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "ccompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "cmd.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "config.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "core.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "cygwinccompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "debug.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "dep_util.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "dir_util.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "dist.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "errors.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "extension.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "fancy_getopt.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "filelist.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "file_util.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "log.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "msvc9compiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "msvccompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "py38compat.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "py39compat.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "spawn.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "sysconfig.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "text_file.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "unixccompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "util.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "version.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "versionpredicate.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 68
+    },
+    {
+        "name": "_collections.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "_functools.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_macos_compat.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "_msvccompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_distutils",
+        "parent": "setuptools",
+        "type": "dir",
+        "size": 396474
+    },
+    {
+        "name": "bdist.py",
+        "parent": "command",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "bdist_dumb.py",
+        "parent": "command",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "bdist_rpm.py",
+        "parent": "command",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "build.py",
+        "parent": "command",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "build_clib.py",
+        "parent": "command",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "build_ext.py",
+        "parent": "command",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "build_py.py",
+        "parent": "command",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "build_scripts.py",
+        "parent": "command",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "check.py",
+        "parent": "command",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "clean.py",
+        "parent": "command",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "config.py",
+        "parent": "command",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "install.py",
+        "parent": "command",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "install_data.py",
+        "parent": "command",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "install_egg_info.py",
+        "parent": "command",
+        "type": "file",
+        "size": 68
+    },
+    {
+        "name": "install_headers.py",
+        "parent": "command",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "install_lib.py",
+        "parent": "command",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "install_scripts.py",
+        "parent": "command",
+        "type": "file",
+        "size": 67
+    },
+    {
+        "name": "py37compat.py",
+        "parent": "command",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "register.py",
+        "parent": "command",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "sdist.py",
+        "parent": "command",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "upload.py",
+        "parent": "command",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "_framework_compat.py",
+        "parent": "command",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "__init__.py",
+        "parent": "command",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "command",
+        "parent": "_distutils",
+        "type": "dir",
+        "size": 208459
+    },
+    {
+        "name": "ordered_set.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "typing_extensions.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 69
+    },
+    {
+        "name": "zipp.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_vendor",
+        "parent": "setuptools",
+        "type": "dir",
+        "size": 110704
+    },
+    {
+        "name": "_adapters.py",
+        "parent": "importlib_metadata",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "_collections.py",
+        "parent": "importlib_metadata",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "_compat.py",
+        "parent": "importlib_metadata",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_functools.py",
+        "parent": "importlib_metadata",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_itertools.py",
+        "parent": "importlib_metadata",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_meta.py",
+        "parent": "importlib_metadata",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "_text.py",
+        "parent": "importlib_metadata",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "__init__.py",
+        "parent": "importlib_metadata",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "importlib_metadata",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 42846
+    },
+    {
+        "name": "abc.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "readers.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "simple.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "_adapters.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "_common.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_compat.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_itertools.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_legacy.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "importlib_resources",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "importlib_resources",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 25123
+    },
+    {
+        "name": "context.py",
+        "parent": "jaraco",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "functools.py",
+        "parent": "jaraco",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "__init__.py",
+        "parent": "jaraco",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "jaraco",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 18932
+    },
+    {
+        "name": "__init__.py",
+        "parent": "text",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "text",
+        "parent": "jaraco",
+        "type": "dir",
+        "size": 15517
+    },
+    {
+        "name": "more.py",
+        "parent": "more_itertools",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "recipes.py",
+        "parent": "more_itertools",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "__init__.py",
+        "parent": "more_itertools",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "more_itertools",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 134297
+    },
+    {
+        "name": "markers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "requirements.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "specifiers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "tags.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "utils.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "version.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_structures.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "__about__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "__init__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "packaging",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 96322
+    },
+    {
+        "name": "actions.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "common.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "core.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "helpers.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "results.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "testing.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "unicode.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "util.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pyparsing",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "pyparsing",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 346318
+    },
+    {
+        "name": "__init__.py",
+        "parent": "diagram",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "diagram",
+        "parent": "pyparsing",
+        "type": "dir",
+        "size": 23668
+    },
+    {
+        "name": "_parser.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "_re.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "_types.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "__init__.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "tomli",
+        "parent": "_vendor",
+        "type": "dir",
+        "size": 26226
+    },
+    {
+        "name": "entry_points.txt",
+        "parent": "setuptools-65.5.1.dist-info",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "INSTALLER",
+        "parent": "setuptools-65.5.1.dist-info",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "LICENSE",
+        "parent": "setuptools-65.5.1.dist-info",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "METADATA",
+        "parent": "setuptools-65.5.1.dist-info",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "RECORD",
+        "parent": "setuptools-65.5.1.dist-info",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "top_level.txt",
+        "parent": "setuptools-65.5.1.dist-info",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "WHEEL",
+        "parent": "setuptools-65.5.1.dist-info",
+        "type": "file",
+        "size": 54
+    },
+    {
+        "name": "setuptools-65.5.1.dist-info",
+        "parent": "site-packages",
+        "type": "dir",
+        "size": 45895
+    },
+    {
+        "name": "bdist_wheel.py",
+        "parent": "wheel",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "macosx_libfile.py",
+        "parent": "wheel",
+        "type": "file",
+        "size": 66
+    },
+    {
+        "name": "metadata.py",
+        "parent": "wheel",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "util.py",
+        "parent": "wheel",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "wheelfile.py",
+        "parent": "wheel",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "_setuptools_logging.py",
+        "parent": "wheel",
+        "type": "file",
+        "size": 71
+    },
+    {
+        "name": "__init__.py",
+        "parent": "wheel",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__main__.py",
+        "parent": "wheel",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "wheel",
+        "parent": "site-packages",
+        "type": "dir",
+        "size": 48582
+    },
+    {
+        "name": "convert.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "pack.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "unpack.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "__init__.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "cli",
+        "parent": "wheel",
+        "type": "dir",
+        "size": 15853
+    },
+    {
+        "name": "__init__.py",
+        "parent": "vendored",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "vendored",
+        "parent": "wheel",
+        "type": "dir",
+        "size": 0
+    },
+    {
+        "name": "tags.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "__init__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "packaging",
+        "parent": "vendored",
+        "type": "dir",
+        "size": 31475
+    },
+    {
+        "name": "entry_points.txt",
+        "parent": "wheel-0.38.4.dist-info",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "INSTALLER",
+        "parent": "wheel-0.38.4.dist-info",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "LICENSE.txt",
+        "parent": "wheel-0.38.4.dist-info",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "METADATA",
+        "parent": "wheel-0.38.4.dist-info",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "RECORD",
+        "parent": "wheel-0.38.4.dist-info",
+        "type": "file",
+        "size": 55
+    },
+    {
+        "name": "top_level.txt",
+        "parent": "wheel-0.38.4.dist-info",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "WHEEL",
+        "parent": "wheel-0.38.4.dist-info",
+        "type": "file",
+        "size": 54
+    },
+    {
+        "name": "wheel-0.38.4.dist-info",
+        "parent": "site-packages",
+        "type": "dir",
+        "size": 6262
+    },
+    {
+        "name": "override.py",
+        "parent": "_distutils_hack",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_distutils_hack",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "_distutils_hack",
+        "parent": "site-packages",
+        "type": "dir",
+        "size": 6172
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_distutils_hack",
+        "type": "dir",
+        "size": 11154
+    },
+    {
+        "name": "_virtualenv.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 76
+    },
+    {
+        "name": "__pycache__",
+        "parent": "site-packages",
+        "type": "dir",
+        "size": 6911
+    },
+    {
+        "name": "activate",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "activate.bat",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "activate.fish",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "activate.nu",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "activate.ps1",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "activate_this.py",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 65
+    },
+    {
+        "name": "deactivate.bat",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "deactivate.nu",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "pip-3.11.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 61
+    },
+    {
+        "name": "pip.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 56
+    },
+    {
+        "name": "pip3.11.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "pip3.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 57
+    },
+    {
+        "name": "pydoc.bat",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "python.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "pythonw.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 60
+    },
+    {
+        "name": "wheel-3.11.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "wheel.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 58
+    },
+    {
+        "name": "wheel3.11.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "wheel3.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "Scripts",
+        "parent": "venv",
+        "type": "dir",
+        "size": 1410144
+    }
+]
